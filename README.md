@@ -123,7 +123,7 @@ Facing issues? Feel free to contact at hashirshoaeb@gmail.com.
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 
-## Contributors ✨
+## Contributor
 
 <table>
   <tr>
@@ -142,7 +142,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## License 📄
 
 [LGPL-3.0](https://www.gnu.org/licenses/lgpl-3.0.en.html)
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/hashirshoaeb/home.svg)](https://starchart.cc/hashirshoaeb/home)
