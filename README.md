@@ -135,13 +135,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
       </a>
       <br />
     </td>
-    <td align="center">
-      <a href="https://github.com/iprithvitharun">
-        <img src="https://avatars2.githubusercontent.com/u/58725708?v=4" width="100px" alt="" />
-        <br />
-        <sub><b>Prithvi Tharun</b></sub>
-      </a>
-      <br />
     
   </tr>
 </table>
